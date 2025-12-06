@@ -1,0 +1,14 @@
+os
+json
+requests
+discord
+sqlite3
+shutil
+win32crypt
+platform
+browser_history
+datetime
+timedelta
+SyncWebhook
+Embed
+ctypes
